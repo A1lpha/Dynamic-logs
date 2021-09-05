@@ -6,3 +6,4 @@
 + Kofferraum auch über G öffnen+ + Discord Click Allowlist
 + edit AC
 + Respawn point
++ Edit Blacklist
